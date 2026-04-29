@@ -1,0 +1,894 @@
+{
+  "n_places": 1523,
+  "type_distribution": [
+    {
+      "Type": "Travel Agents",
+      "count": 852
+    },
+    {
+      "Type": "Restaurants",
+      "count": 476
+    },
+    {
+      "Type": "Tourist Shops",
+      "count": 74
+    },
+    {
+      "Type": "Spa & Wellness Centers",
+      "count": 60
+    },
+    {
+      "Type": "Spice Gardens",
+      "count": 36
+    },
+    {
+      "Type": "Water Sports Centers",
+      "count": 25
+    }
+  ],
+  "district_distribution": [
+    {
+      "District": "Colombo",
+      "count": 932
+    },
+    {
+      "District": "Gampaha",
+      "count": 171
+    },
+    {
+      "District": "Kandy",
+      "count": 70
+    },
+    {
+      "District": "Galle",
+      "count": 63
+    },
+    {
+      "District": "Matale",
+      "count": 45
+    },
+    {
+      "District": "Kalutara",
+      "count": 43
+    },
+    {
+      "District": "Kegalle",
+      "count": 35
+    },
+    {
+      "District": "Puttalam",
+      "count": 29
+    },
+    {
+      "District": "Kurunegala",
+      "count": 25
+    },
+    {
+      "District": "Ampara",
+      "count": 14
+    },
+    {
+      "District": "Matara",
+      "count": 13
+    },
+    {
+      "District": "Batticaloa",
+      "count": 11
+    },
+    {
+      "District": "Jaffna",
+      "count": 11
+    },
+    {
+      "District": "Ratnapura",
+      "count": 8
+    },
+    {
+      "District": "Trincomalee",
+      "count": 7
+    }
+  ],
+  "grade_distribution": [
+    {
+      "Grade": "Unrated",
+      "count": 1035
+    },
+    {
+      "Grade": "A",
+      "count": 383
+    },
+    {
+      "Grade": "B",
+      "count": 92
+    },
+    {
+      "Grade": " NAWAM MAWATHA",
+      "count": 2
+    },
+    {
+      "Grade": " KOLLUPITIYA LANE",
+      "count": 2
+    },
+    {
+      "Grade": "PEELLAWATTE",
+      "count": 1
+    },
+    {
+      "Grade": "NEGAMBO\"",
+      "count": 1
+    },
+    {
+      "Grade": " WEST SAMANTHURAI\"",
+      "count": 1
+    },
+    {
+      "Grade": "SAMAGI MAWATH",
+      "count": 1
+    },
+    {
+      "Grade": " NO.39",
+      "count": 1
+    },
+    {
+      "Grade": " NO. 622-B",
+      "count": 1
+    },
+    {
+      "Grade": " MAKOLA ROAD",
+      "count": 1
+    },
+    {
+      "Grade": " KOTUGODA",
+      "count": 1
+    },
+    {
+      "Grade": " NAVAM MAWATHA",
+      "count": 1
+    }
+  ],
+  "grade_by_type": [
+    {
+      "Type": "Restaurants",
+      "Grade": "A",
+      "count": 383
+    },
+    {
+      "Type": "Restaurants",
+      "Grade": "B",
+      "count": 92
+    },
+    {
+      "Type": "Restaurants",
+      "Grade": " MAKOLA ROAD",
+      "count": 1
+    },
+    {
+      "Type": "Spa & Wellness Centers",
+      "Grade": "Unrated",
+      "count": 60
+    },
+    {
+      "Type": "Spice Gardens",
+      "Grade": "Unrated",
+      "count": 36
+    },
+    {
+      "Type": "Tourist Shops",
+      "Grade": "Unrated",
+      "count": 74
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": "Unrated",
+      "count": 840
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " KOLLUPITIYA LANE",
+      "count": 2
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " NAWAM MAWATHA",
+      "count": 2
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": "PEELLAWATTE",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": "SAMAGI MAWATH",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": "NEGAMBO\"",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " NO. 622-B",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " KOTUGODA",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " WEST SAMANTHURAI\"",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " NAVAM MAWATHA",
+      "count": 1
+    },
+    {
+      "Type": "Travel Agents",
+      "Grade": " NO.39",
+      "count": 1
+    },
+    {
+      "Type": "Water Sports Centers",
+      "Grade": "Unrated",
+      "count": 25
+    }
+  ],
+  "tag_frequency": [
+    {
+      "tag": "tour-operator",
+      "count": 846
+    },
+    {
+      "tag": "travel-agents",
+      "count": 840
+    },
+    {
+      "tag": "restaurants",
+      "count": 475
+    },
+    {
+      "tag": "restaurant",
+      "count": 277
+    },
+    {
+      "tag": "tourist-shops",
+      "count": 74
+    },
+    {
+      "tag": "wellness",
+      "count": 67
+    },
+    {
+      "tag": "spa-and-wellness-centers",
+      "count": 60
+    },
+    {
+      "tag": "asian-cuisine",
+      "count": 49
+    },
+    {
+      "tag": "garden",
+      "count": 44
+    },
+    {
+      "tag": "stay",
+      "count": 36
+    },
+    {
+      "tag": "spice-gardens",
+      "count": 36
+    },
+    {
+      "tag": "watersport",
+      "count": 29
+    },
+    {
+      "tag": "beach",
+      "count": 27
+    },
+    {
+      "tag": "nightlife",
+      "count": 26
+    },
+    {
+      "tag": "cafe",
+      "count": 26
+    }
+  ],
+  "district_summary": [
+    {
+      "District": "Colombo",
+      "total": 932,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 227
+    },
+    {
+      "District": "Gampaha",
+      "total": 171,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 41
+    },
+    {
+      "District": "Kandy",
+      "total": 70,
+      "dominant_type": "Tourist Shops",
+      "grade_a_count": 19
+    },
+    {
+      "District": "Galle",
+      "total": 63,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 28
+    },
+    {
+      "District": "Matale",
+      "total": 45,
+      "dominant_type": "Spice Gardens",
+      "grade_a_count": 8
+    },
+    {
+      "District": "Kalutara",
+      "total": 43,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 8
+    },
+    {
+      "District": "Kegalle",
+      "total": 35,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 12
+    },
+    {
+      "District": "Puttalam",
+      "total": 29,
+      "dominant_type": "Water Sports Centers",
+      "grade_a_count": 3
+    },
+    {
+      "District": "Kurunegala",
+      "total": 25,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 9
+    },
+    {
+      "District": "Ampara",
+      "total": 14,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": "Matara",
+      "total": 13,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 4
+    },
+    {
+      "District": "Batticaloa",
+      "total": 11,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": "Jaffna",
+      "total": 11,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 7
+    },
+    {
+      "District": "Ratnapura",
+      "total": 8,
+      "dominant_type": "Tourist Shops",
+      "grade_a_count": 3
+    },
+    {
+      "District": "Trincomalee",
+      "total": 7,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 2
+    },
+    {
+      "District": "Hambantota",
+      "total": 6,
+      "dominant_type": "Spa & Wellness Centers",
+      "grade_a_count": 1
+    },
+    {
+      "District": "Anuradhapura",
+      "total": 6,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 2
+    },
+    {
+      "District": "Polonnaruwa",
+      "total": 5,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 1
+    },
+    {
+      "District": "Nuwara Eliya",
+      "total": 5,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 3
+    },
+    {
+      "District": "Moneragala",
+      "total": 4,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 2
+    },
+    {
+      "District": "Mullaitivu",
+      "total": 3,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 1
+    },
+    {
+      "District": " COLOMBO 02\"",
+      "total": 3,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": "Unrated",
+      "total": 2,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": "Badulla",
+      "total": 2,
+      "dominant_type": "Tourist Shops",
+      "grade_a_count": 1
+    },
+    {
+      "District": "Kilinochchi",
+      "total": 1,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 1
+    },
+    {
+      "District": " KOTTE ROAD",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": "MAHALADUWA",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": " COLOMBO 3\"",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": "ANDIAMBALAMA\"",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": " KIRIBATHGODA\"",
+      "total": 1,
+      "dominant_type": "Restaurants",
+      "grade_a_count": 0
+    },
+    {
+      "District": "N/A",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": " JA ELA\"",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": " ST. MICHAELS ROAD",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    },
+    {
+      "District": " COLOMBO 03\"",
+      "total": 1,
+      "dominant_type": "Travel Agents",
+      "grade_a_count": 0
+    }
+  ],
+  "clusters": {
+    "labels": {
+      "0": "Travel Agents-heavy",
+      "1": "Travel Agents-heavy",
+      "2": "Spice Gardens-heavy",
+      "3": "Travel Agents-heavy"
+    },
+    "training_cost": 48.57956175319926,
+    "districts": [
+      {
+        "District": "Batticaloa",
+        "prediction": 1,
+        "Restaurants": 1,
+        "Spa & Wellness Centers": 1,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 8,
+        "Water Sports Centers": 1,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " KOTTE ROAD",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Ratnapura",
+        "prediction": 1,
+        "Restaurants": 3,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 3,
+        "Travel Agents": 2,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Moneragala",
+        "prediction": 1,
+        "Restaurants": 4,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Kilinochchi",
+        "prediction": 1,
+        "Restaurants": 1,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Trincomalee",
+        "prediction": 1,
+        "Restaurants": 2,
+        "Spa & Wellness Centers": 1,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 3,
+        "Water Sports Centers": 1,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Colombo",
+        "prediction": 3,
+        "Restaurants": 255,
+        "Spa & Wellness Centers": 21,
+        "Spice Gardens": 0,
+        "Tourist Shops": 22,
+        "Travel Agents": 634,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Kegalle",
+        "prediction": 1,
+        "Restaurants": 16,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 10,
+        "Tourist Shops": 0,
+        "Travel Agents": 6,
+        "Water Sports Centers": 3,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Mullaitivu",
+        "prediction": 1,
+        "Restaurants": 3,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Matale",
+        "prediction": 2,
+        "Restaurants": 12,
+        "Spa & Wellness Centers": 2,
+        "Spice Gardens": 24,
+        "Tourist Shops": 7,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Spice Gardens-heavy"
+      },
+      {
+        "District": "Ampara",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 14,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Kurunegala",
+        "prediction": 1,
+        "Restaurants": 11,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 14,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Kalutara",
+        "prediction": 0,
+        "Restaurants": 12,
+        "Spa & Wellness Centers": 11,
+        "Spice Gardens": 0,
+        "Tourist Shops": 3,
+        "Travel Agents": 13,
+        "Water Sports Centers": 4,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Anuradhapura",
+        "prediction": 1,
+        "Restaurants": 4,
+        "Spa & Wellness Centers": 1,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Matara",
+        "prediction": 1,
+        "Restaurants": 7,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 3,
+        "Water Sports Centers": 3,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Hambantota",
+        "prediction": 1,
+        "Restaurants": 2,
+        "Spa & Wellness Centers": 3,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "MAHALADUWA",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " COLOMBO 3\"",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Puttalam",
+        "prediction": 0,
+        "Restaurants": 5,
+        "Spa & Wellness Centers": 1,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 11,
+        "Water Sports Centers": 12,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "N/A",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Gampaha",
+        "prediction": 1,
+        "Restaurants": 61,
+        "Spa & Wellness Centers": 4,
+        "Spice Gardens": 0,
+        "Tourist Shops": 6,
+        "Travel Agents": 99,
+        "Water Sports Centers": 1,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Polonnaruwa",
+        "prediction": 1,
+        "Restaurants": 2,
+        "Spa & Wellness Centers": 1,
+        "Spice Gardens": 1,
+        "Tourist Shops": 1,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Unrated",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 2,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "ANDIAMBALAMA\"",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " KIRIBATHGODA\"",
+        "prediction": 1,
+        "Restaurants": 1,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " JA ELA\"",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Kandy",
+        "prediction": 1,
+        "Restaurants": 24,
+        "Spa & Wellness Centers": 4,
+        "Spice Gardens": 0,
+        "Tourist Shops": 28,
+        "Travel Agents": 14,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Jaffna",
+        "prediction": 1,
+        "Restaurants": 9,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 2,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " ST. MICHAELS ROAD",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " COLOMBO 03\"",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Galle",
+        "prediction": 1,
+        "Restaurants": 37,
+        "Spa & Wellness Centers": 9,
+        "Spice Gardens": 1,
+        "Tourist Shops": 3,
+        "Travel Agents": 13,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Badulla",
+        "prediction": 1,
+        "Restaurants": 1,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 1,
+        "Travel Agents": 0,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": "Nuwara Eliya",
+        "prediction": 1,
+        "Restaurants": 3,
+        "Spa & Wellness Centers": 1,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 1,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      },
+      {
+        "District": " COLOMBO 02\"",
+        "prediction": 1,
+        "Restaurants": 0,
+        "Spa & Wellness Centers": 0,
+        "Spice Gardens": 0,
+        "Tourist Shops": 0,
+        "Travel Agents": 3,
+        "Water Sports Centers": 0,
+        "cluster_label": "Travel Agents-heavy"
+      }
+    ]
+  }
+}

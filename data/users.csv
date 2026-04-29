@@ -1,0 +1,301 @@
+user_id,home_district,preferred_types
+1,Polonnaruwa,Restaurants|Water Sports Centers
+2,Trincomalee,Spice Gardens|Spa & Wellness Centers
+3,Hambantota,Spa & Wellness Centers|Restaurants
+4,Puttalam,Water Sports Centers|Travel Agents
+5,Badulla,Travel Agents|Tourist Shops
+6,Anuradhapura,Restaurants|Water Sports Centers
+7,Gampaha,Spa & Wellness Centers|Travel Agents
+8,Nuwara Eliya,Restaurants|Travel Agents
+9,Gampaha,Water Sports Centers|Travel Agents
+10,Kurunegala,Spa & Wellness Centers|Tourist Shops
+11,N/A,Spice Gardens|Restaurants
+12,Galle,Water Sports Centers|Tourist Shops
+13,Kandy,Spice Gardens|Spa & Wellness Centers
+14,Gampaha,Spice Gardens|Restaurants
+15,Badulla,Tourist Shops|Restaurants
+16,Kegalle,Spice Gardens|Travel Agents
+17,Jaffna,Restaurants|Tourist Shops
+18,Mullaitivu,Restaurants|Tourist Shops
+19,Badulla,Travel Agents|Spice Gardens
+20,Polonnaruwa,Travel Agents|Spice Gardens
+21,N/A,Spa & Wellness Centers|Restaurants
+22,Anuradhapura,Water Sports Centers|Spa & Wellness Centers
+23,Kalutara,Restaurants|Spa & Wellness Centers
+24,Batticaloa,Tourist Shops|Spice Gardens
+25,Matale,Water Sports Centers|Spice Gardens
+26,Galle,Spice Gardens|Water Sports Centers
+27,Gampaha,Water Sports Centers|Spice Gardens
+28,Ratnapura,Water Sports Centers|Restaurants
+29,Nuwara Eliya,Water Sports Centers|Spa & Wellness Centers
+30,Mullaitivu,Water Sports Centers|Spa & Wellness Centers
+31,Galle,Tourist Shops|Water Sports Centers
+32,Jaffna,Water Sports Centers|Travel Agents
+33,Hambantota,Water Sports Centers|Spice Gardens
+34,Anuradhapura,Spa & Wellness Centers|Restaurants
+35,Kandy,Tourist Shops|Spice Gardens
+36,Badulla,Spa & Wellness Centers|Travel Agents
+37,Ratnapura,Spice Gardens|Spa & Wellness Centers
+38,Polonnaruwa,Tourist Shops|Water Sports Centers
+39,Polonnaruwa,Tourist Shops|Spa & Wellness Centers
+40,Jaffna,Spa & Wellness Centers|Water Sports Centers
+41,Trincomalee,Travel Agents|Water Sports Centers
+42,Jaffna,Water Sports Centers|Travel Agents
+43,Kurunegala,Travel Agents|Tourist Shops
+44,Kegalle,Spa & Wellness Centers|Water Sports Centers
+45,Moneragala,Tourist Shops|Restaurants
+46,Anuradhapura,Restaurants|Spa & Wellness Centers
+47,Polonnaruwa,Spa & Wellness Centers|Tourist Shops
+48,Nuwara Eliya,Restaurants|Tourist Shops
+49,Kilinochchi,Travel Agents|Tourist Shops
+50,Moneragala,Spice Gardens|Travel Agents
+51,Ampara,Water Sports Centers|Restaurants
+52,Puttalam,Travel Agents|Spice Gardens
+53,Polonnaruwa,Spice Gardens|Restaurants
+54,Kalutara,Tourist Shops|Spa & Wellness Centers
+55,Matale,Restaurants|Spice Gardens
+56,Moneragala,Spa & Wellness Centers|Travel Agents
+57,Batticaloa,Water Sports Centers|Spice Gardens
+58,Polonnaruwa,Travel Agents|Water Sports Centers
+59,Gampaha,Spa & Wellness Centers|Spice Gardens
+60,Galle,Travel Agents|Water Sports Centers
+61,Ampara,Travel Agents|Spice Gardens
+62,Matara,Restaurants|Water Sports Centers
+63,Kegalle,Spice Gardens|Spa & Wellness Centers
+64,Anuradhapura,Spa & Wellness Centers|Travel Agents
+65,Badulla,Restaurants|Tourist Shops
+66,Badulla,Travel Agents|Spa & Wellness Centers
+67,Colombo,Water Sports Centers|Tourist Shops
+68,Mullaitivu,Spa & Wellness Centers|Spice Gardens
+69,Moneragala,Travel Agents|Tourist Shops
+70,Gampaha,Travel Agents|Spa & Wellness Centers
+71,Ratnapura,Spice Gardens|Tourist Shops
+72,Puttalam,Water Sports Centers|Spice Gardens
+73,Matale,Travel Agents|Tourist Shops
+74,Batticaloa,Spa & Wellness Centers|Water Sports Centers
+75,Badulla,Spice Gardens|Restaurants
+76,N/A,Travel Agents|Spa & Wellness Centers
+77,N/A,Spa & Wellness Centers|Restaurants
+78,Badulla,Water Sports Centers|Restaurants
+79,Hambantota,Restaurants|Water Sports Centers
+80,Kandy,Restaurants|Travel Agents
+81,Hambantota,Spice Gardens|Tourist Shops
+82,Gampaha,Travel Agents|Spa & Wellness Centers
+83,Trincomalee,Travel Agents|Water Sports Centers
+84,Matara,Spa & Wellness Centers|Tourist Shops
+85,Kurunegala,Spa & Wellness Centers|Restaurants
+86,Batticaloa,Water Sports Centers|Tourist Shops
+87,Kegalle,Tourist Shops|Water Sports Centers
+88,Matale,Water Sports Centers|Restaurants
+89,Puttalam,Water Sports Centers|Restaurants
+90,Anuradhapura,Tourist Shops|Spice Gardens
+91,Batticaloa,Spa & Wellness Centers|Water Sports Centers
+92,Gampaha,Travel Agents|Tourist Shops
+93,Colombo,Tourist Shops|Spa & Wellness Centers
+94,Jaffna,Tourist Shops|Spa & Wellness Centers
+95,Badulla,Tourist Shops|Travel Agents
+96,Batticaloa,Restaurants|Travel Agents
+97,Ampara,Restaurants|Spa & Wellness Centers
+98,Galle,Tourist Shops|Water Sports Centers
+99,Matara,Spa & Wellness Centers|Tourist Shops
+100,Anuradhapura,Spa & Wellness Centers|Tourist Shops
+101,Ampara,Tourist Shops|Spice Gardens
+102,Matale,Spice Gardens|Tourist Shops
+103,Ratnapura,Water Sports Centers|Travel Agents
+104,Puttalam,Water Sports Centers|Tourist Shops
+105,Colombo,Spa & Wellness Centers|Spice Gardens
+106,Gampaha,Restaurants|Travel Agents
+107,Trincomalee,Travel Agents|Restaurants
+108,Trincomalee,Spice Gardens|Restaurants
+109,Anuradhapura,Travel Agents|Tourist Shops
+110,Moneragala,Travel Agents|Spa & Wellness Centers
+111,Anuradhapura,Travel Agents|Restaurants
+112,Galle,Restaurants|Travel Agents
+113,Badulla,Water Sports Centers|Spa & Wellness Centers
+114,Kilinochchi,Restaurants|Travel Agents
+115,Hambantota,Travel Agents|Water Sports Centers
+116,Anuradhapura,Travel Agents|Restaurants
+117,Kurunegala,Water Sports Centers|Travel Agents
+118,N/A,Travel Agents|Spice Gardens
+119,Jaffna,Spa & Wellness Centers|Spice Gardens
+120,Hambantota,Spice Gardens|Tourist Shops
+121,Colombo,Water Sports Centers|Spice Gardens
+122,Matale,Spice Gardens|Restaurants
+123,Ampara,Tourist Shops|Travel Agents
+124,N/A,Restaurants|Water Sports Centers
+125,Mullaitivu,Spa & Wellness Centers|Travel Agents
+126,Jaffna,Spa & Wellness Centers|Spice Gardens
+127,Badulla,Spa & Wellness Centers|Spice Gardens
+128,Kalutara,Spa & Wellness Centers|Tourist Shops
+129,Mullaitivu,Water Sports Centers|Spice Gardens
+130,Nuwara Eliya,Water Sports Centers|Travel Agents
+131,Ampara,Water Sports Centers|Travel Agents
+132,Kalutara,Water Sports Centers|Restaurants
+133,Colombo,Spice Gardens|Restaurants
+134,Batticaloa,Water Sports Centers|Travel Agents
+135,Colombo,Spice Gardens|Water Sports Centers
+136,Nuwara Eliya,Spa & Wellness Centers|Spice Gardens
+137,Gampaha,Water Sports Centers|Spice Gardens
+138,Moneragala,Tourist Shops|Spice Gardens
+139,Anuradhapura,Restaurants|Tourist Shops
+140,Jaffna,Restaurants|Water Sports Centers
+141,Kandy,Spa & Wellness Centers|Spice Gardens
+142,Galle,Water Sports Centers|Tourist Shops
+143,Mullaitivu,Water Sports Centers|Tourist Shops
+144,Mullaitivu,Restaurants|Water Sports Centers
+145,Badulla,Water Sports Centers|Spa & Wellness Centers
+146,Mullaitivu,Restaurants|Spice Gardens
+147,N/A,Travel Agents|Spa & Wellness Centers
+148,Kurunegala,Spa & Wellness Centers|Restaurants
+149,Kalutara,Spice Gardens|Restaurants
+150,Kegalle,Spa & Wellness Centers|Water Sports Centers
+151,Puttalam,Restaurants|Spice Gardens
+152,Mullaitivu,Tourist Shops|Travel Agents
+153,Trincomalee,Spa & Wellness Centers|Water Sports Centers
+154,Galle,Spa & Wellness Centers|Tourist Shops
+155,Ampara,Spa & Wellness Centers|Spice Gardens
+156,Kurunegala,Water Sports Centers|Spa & Wellness Centers
+157,Jaffna,Spa & Wellness Centers|Restaurants
+158,Kilinochchi,Restaurants|Tourist Shops
+159,Hambantota,Spa & Wellness Centers|Tourist Shops
+160,Kegalle,Spice Gardens|Spa & Wellness Centers
+161,Hambantota,Restaurants|Spa & Wellness Centers
+162,Kilinochchi,Spice Gardens|Water Sports Centers
+163,Badulla,Spice Gardens|Water Sports Centers
+164,Polonnaruwa,Travel Agents|Tourist Shops
+165,Puttalam,Travel Agents|Spice Gardens
+166,Ampara,Restaurants|Spice Gardens
+167,Galle,Travel Agents|Spice Gardens
+168,Anuradhapura,Restaurants|Travel Agents
+169,Kurunegala,Spice Gardens|Water Sports Centers
+170,Kurunegala,Travel Agents|Water Sports Centers
+171,Batticaloa,Tourist Shops|Travel Agents
+172,Gampaha,Spice Gardens|Restaurants
+173,Ratnapura,Tourist Shops|Restaurants
+174,Moneragala,Travel Agents|Spa & Wellness Centers
+175,Kegalle,Tourist Shops|Restaurants
+176,Puttalam,Spice Gardens|Travel Agents
+177,Kandy,Water Sports Centers|Restaurants
+178,Trincomalee,Spice Gardens|Travel Agents
+179,Kalutara,Water Sports Centers|Tourist Shops
+180,Kandy,Tourist Shops|Spice Gardens
+181,Mullaitivu,Spa & Wellness Centers|Water Sports Centers
+182,Kurunegala,Water Sports Centers|Tourist Shops
+183,Puttalam,Water Sports Centers|Spa & Wellness Centers
+184,Nuwara Eliya,Travel Agents|Spice Gardens
+185,Kilinochchi,Travel Agents|Restaurants
+186,Kalutara,Spice Gardens|Spa & Wellness Centers
+187,Kurunegala,Travel Agents|Water Sports Centers
+188,Polonnaruwa,Spice Gardens|Tourist Shops
+189,Matale,Tourist Shops|Spa & Wellness Centers
+190,Moneragala,Tourist Shops|Spa & Wellness Centers
+191,Puttalam,Restaurants|Spice Gardens
+192,Moneragala,Water Sports Centers|Travel Agents
+193,Kandy,Restaurants|Spa & Wellness Centers
+194,Puttalam,Spice Gardens|Spa & Wellness Centers
+195,Gampaha,Spa & Wellness Centers|Restaurants
+196,Anuradhapura,Spa & Wellness Centers|Tourist Shops
+197,Nuwara Eliya,Restaurants|Tourist Shops
+198,Kurunegala,Water Sports Centers|Travel Agents
+199,Gampaha,Water Sports Centers|Tourist Shops
+200,Matara,Tourist Shops|Spa & Wellness Centers
+201,Colombo,Water Sports Centers|Restaurants
+202,Batticaloa,Tourist Shops|Spa & Wellness Centers
+203,Galle,Water Sports Centers|Travel Agents
+204,Matale,Restaurants|Travel Agents
+205,Hambantota,Restaurants|Tourist Shops
+206,Colombo,Tourist Shops|Travel Agents
+207,Mullaitivu,Travel Agents|Spice Gardens
+208,Matale,Travel Agents|Water Sports Centers
+209,Kurunegala,Travel Agents|Tourist Shops
+210,Galle,Water Sports Centers|Tourist Shops
+211,Matale,Spice Gardens|Spa & Wellness Centers
+212,Polonnaruwa,Spice Gardens|Travel Agents
+213,Matara,Water Sports Centers|Spa & Wellness Centers
+214,Jaffna,Tourist Shops|Restaurants
+215,Ratnapura,Spice Gardens|Spa & Wellness Centers
+216,Jaffna,Spice Gardens|Water Sports Centers
+217,Mullaitivu,Restaurants|Spa & Wellness Centers
+218,Colombo,Spa & Wellness Centers|Tourist Shops
+219,Ratnapura,Spa & Wellness Centers|Water Sports Centers
+220,Badulla,Tourist Shops|Water Sports Centers
+221,Kandy,Travel Agents|Tourist Shops
+222,Kurunegala,Restaurants|Spa & Wellness Centers
+223,Kurunegala,Tourist Shops|Travel Agents
+224,Ratnapura,Restaurants|Travel Agents
+225,Kilinochchi,Tourist Shops|Restaurants
+226,Kegalle,Spice Gardens|Tourist Shops
+227,Kurunegala,Travel Agents|Water Sports Centers
+228,Nuwara Eliya,Spa & Wellness Centers|Tourist Shops
+229,Hambantota,Spice Gardens|Tourist Shops
+230,Matara,Restaurants|Tourist Shops
+231,Kandy,Water Sports Centers|Tourist Shops
+232,Trincomalee,Spa & Wellness Centers|Tourist Shops
+233,Colombo,Travel Agents|Water Sports Centers
+234,Ampara,Tourist Shops|Travel Agents
+235,N/A,Water Sports Centers|Restaurants
+236,Badulla,Water Sports Centers|Tourist Shops
+237,Colombo,Tourist Shops|Spa & Wellness Centers
+238,Anuradhapura,Spice Gardens|Tourist Shops
+239,Kandy,Spa & Wellness Centers|Tourist Shops
+240,Kandy,Spice Gardens|Tourist Shops
+241,Jaffna,Tourist Shops|Spice Gardens
+242,Badulla,Tourist Shops|Restaurants
+243,Trincomalee,Travel Agents|Restaurants
+244,Kegalle,Spa & Wellness Centers|Restaurants
+245,Polonnaruwa,Restaurants|Water Sports Centers
+246,Hambantota,Spa & Wellness Centers|Restaurants
+247,Nuwara Eliya,Spa & Wellness Centers|Water Sports Centers
+248,Colombo,Tourist Shops|Restaurants
+249,N/A,Spa & Wellness Centers|Tourist Shops
+250,Ratnapura,Spice Gardens|Water Sports Centers
+251,Galle,Travel Agents|Water Sports Centers
+252,Trincomalee,Water Sports Centers|Restaurants
+253,Galle,Spice Gardens|Restaurants
+254,N/A,Restaurants|Spice Gardens
+255,N/A,Water Sports Centers|Tourist Shops
+256,Kilinochchi,Water Sports Centers|Spa & Wellness Centers
+257,Badulla,Travel Agents|Spa & Wellness Centers
+258,Batticaloa,Water Sports Centers|Spice Gardens
+259,Puttalam,Travel Agents|Restaurants
+260,N/A,Restaurants|Spice Gardens
+261,Mullaitivu,Tourist Shops|Spice Gardens
+262,Badulla,Travel Agents|Spice Gardens
+263,Ampara,Tourist Shops|Water Sports Centers
+264,Batticaloa,Tourist Shops|Spice Gardens
+265,Polonnaruwa,Tourist Shops|Spa & Wellness Centers
+266,Kurunegala,Spa & Wellness Centers|Travel Agents
+267,Polonnaruwa,Spice Gardens|Travel Agents
+268,Mullaitivu,Tourist Shops|Water Sports Centers
+269,Kurunegala,Water Sports Centers|Travel Agents
+270,Jaffna,Spice Gardens|Spa & Wellness Centers
+271,Badulla,Spice Gardens|Tourist Shops
+272,Hambantota,Tourist Shops|Travel Agents
+273,Nuwara Eliya,Water Sports Centers|Tourist Shops
+274,Kandy,Restaurants|Tourist Shops
+275,Kandy,Spa & Wellness Centers|Tourist Shops
+276,Gampaha,Spice Gardens|Water Sports Centers
+277,Kandy,Spice Gardens|Travel Agents
+278,Ratnapura,Spice Gardens|Travel Agents
+279,Ampara,Travel Agents|Spa & Wellness Centers
+280,Badulla,Spa & Wellness Centers|Tourist Shops
+281,Matara,Travel Agents|Spa & Wellness Centers
+282,Ratnapura,Tourist Shops|Water Sports Centers
+283,Matale,Restaurants|Water Sports Centers
+284,Kalutara,Spa & Wellness Centers|Tourist Shops
+285,Ratnapura,Spa & Wellness Centers|Spice Gardens
+286,Puttalam,Travel Agents|Spice Gardens
+287,Matara,Travel Agents|Water Sports Centers
+288,Kegalle,Tourist Shops|Travel Agents
+289,Kandy,Spice Gardens|Tourist Shops
+290,Jaffna,Spice Gardens|Water Sports Centers
+291,Hambantota,Restaurants|Spa & Wellness Centers
+292,Kandy,Restaurants|Travel Agents
+293,Ratnapura,Spa & Wellness Centers|Water Sports Centers
+294,Gampaha,Water Sports Centers|Tourist Shops
+295,Jaffna,Water Sports Centers|Travel Agents
+296,Moneragala,Travel Agents|Spice Gardens
+297,Batticaloa,Spa & Wellness Centers|Spice Gardens
+298,Hambantota,Spice Gardens|Spa & Wellness Centers
+299,Kalutara,Restaurants|Travel Agents
+300,Colombo,Spice Gardens|Restaurants
