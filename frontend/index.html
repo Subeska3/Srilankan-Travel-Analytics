@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Srilankan Travel Analytics & Recommendations</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-animation">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+    
+    <nav class="glass-nav">
+        <div class="logo">Sri Lanka <span>Travel AI</span></div>
+        <div class="nav-links">
+            <button class="nav-btn active" data-target="analytics-section">Analytics Dashboard</button>
+            <button class="nav-btn" data-target="recommendation-section">Recommendations</button>
+        </div>
+    </nav>
+
+    <main>
+        <!-- Analytics Section (Part A) -->
+        <section id="analytics-section" class="active-section">
+            <header class="section-header">
+                <h1>Big Data Analytics</h1>
+                <p>Exploring 1,500+ Sri Lankan travel destinations through Apache Spark.</p>
+            </header>
+            
+            <div class="kpi-grid" id="kpi-container">
+                <!-- KPIs injected via JS -->
+            </div>
+            
+            <div class="charts-grid">
+                <div class="chart-card glass-card">
+                    <h3>Place Types</h3>
+                    <canvas id="typeChart"></canvas>
+                </div>
+                <div class="chart-card glass-card">
+                    <h3>Top Tags</h3>
+                    <canvas id="tagChart"></canvas>
+                </div>
+                <div class="chart-card glass-card full-width">
+                    <h3>District Distribution</h3>
+                    <canvas id="districtChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Recommendation Section (Part B) -->
+        <section id="recommendation-section">
+            <header class="section-header">
+                <h1>AI Recommendations</h1>
+                <p>Spark MLlib Collaborative Filtering (ALS)</p>
+            </header>
+            
+            <div class="user-selector glass-card">
+                <label for="userSelect">Select User ID to View Recommendations:</label>
+                <div class="select-wrapper">
+                    <select id="userSelect">
+                        <option value="">Loading users...</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div id="loading-spinner" class="hidden">
+                <div class="spinner"></div>
+                <p>Generating personalized recommendations...</p>
+            </div>
+
+            <div class="recommendation-grid" id="recommendation-container">
+                <!-- Recommendation cards injected via JS -->
+            </div>
+        </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
