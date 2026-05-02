@@ -30,7 +30,7 @@ const accentColors = [
 // Load Analytics Data
 async function loadAnalytics() {
     try {
-        const response = await fetch('/api/analytics');
+        const response = await fetch('../outputs/analytics.json');
         if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
         
@@ -128,14 +128,23 @@ function renderCharts(data) {
     });
 }
 
+// Data fetching helper for static JSON
+let cachedRecommendations = null;
+async function fetchRecommendationsData() {
+    if (cachedRecommendations) return cachedRecommendations;
+    const response = await fetch('../outputs/recommendations.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    cachedRecommendations = await response.json();
+    return cachedRecommendations;
+}
+
 // Load Recommendation Data
 async function initRecommendations() {
     const userSelect = document.getElementById('userSelect');
     
     try {
-        const response = await fetch('/api/users');
-        if (!response.ok) throw new Error('Network response was not ok');
-        const users = await response.json();
+        const data = await fetchRecommendationsData();
+        const users = Object.keys(data).map(Number).sort((a,b) => a - b);
         
         userSelect.innerHTML = '<option value="">-- Choose User ID --</option>';
         users.forEach(uid => {
@@ -167,9 +176,10 @@ async function loadUserRecommendations(userId) {
     spinner.classList.remove('hidden');
     
     try {
-        const response = await fetch(`/api/recommendations/${userId}`);
-        if (!response.ok) throw new Error('User not found');
-        const recs = await response.json();
+        const data = await fetchRecommendationsData();
+        const recs = data[userId];
+        
+        if (!recs) throw new Error('User not found');
         
         spinner.classList.add('hidden');
         
