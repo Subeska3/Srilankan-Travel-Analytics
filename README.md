@@ -15,40 +15,6 @@ The project is split into the two parts required by the assignment:
 
 ---
 
-## Project Structure
-
-```
-BDA_Assignment/
-├── backend/
-│   ├── spark_env.py             # Shared Spark session helper (Windows-friendly)
-│   ├── data_prep.py             # Stage 1 - clean CSV + synthesize users/ratings
-│   ├── part_a_analytics.py      # Stage 2 - EDA + K-Means district clustering
-│   ├── part_b_recommendation.py # Stage 3 - ALS collaborative filtering
-│   └── app.py                   # Flask backend (REST API + serves frontend)
-│
-├── frontend/
-│   ├── index.html               # Two-section dashboard (Analytics / Recs)
-│   ├── style.css                # Glassmorphic dark theme
-│   └── script.js                # Chart.js charts + recommendation cards
-│
-├── data/
-│   ├── places_clean.csv         # Cleaned places (output of data_prep)
-│   ├── users.csv                # Synthesized users (300)
-│   └── ratings.csv              # Synthesized ratings (~5,000)
-│
-├── outputs/
-│   ├── analytics.json           # Part A artefact consumed by frontend
-│   └── recommendations.json     # Part B artefact (top-10 per user)
-│
-├── slides/                      # Presentation deck (assignment deliverable)
-├── Places for Travel-Dining-Recreational activities and Information of travel agents.csv
-├── Big_Data_Analytics_Mini_Project_Assignment_Guidelines (1).pdf
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Dataset
 
 - **Source file:** `Places for Travel-Dining-Recreational activities and Information of travel agents.csv`
