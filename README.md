@@ -281,4 +281,7 @@ curl http://localhost:5000/api/recommendations/42
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+## Dashboard URL
+https://subeska3.github.io/Srilankan-Travel-Analytics/frontend/index.html
+
 ---
